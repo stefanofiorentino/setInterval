@@ -3,5 +3,5 @@ project(setInterval)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(setTimeout main.cpp)
+add_executable(setTimeout src/main.cpp)
 target_link_libraries(setTimeout pthread)
