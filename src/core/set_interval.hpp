@@ -1,6 +1,8 @@
 #ifndef SETINTERVAL_CORE_HPP
 #define SETINTERVAL_CORE_HPP
 
+#include <future>
+
 namespace
 {
     template<typename... Args_t> using void_t = void;

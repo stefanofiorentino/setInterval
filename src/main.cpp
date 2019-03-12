@@ -1,5 +1,4 @@
 #include <iostream>
-#include <future>
 
 #include "core/set_interval.hpp"
 
